@@ -1,0 +1,36 @@
+<!DOCTYPE=HTML>
+<html>
+<head>
+<title>Calc</title>
+<style>
+body{
+margin:0;
+padding:0;
+background-color:bisque;
+}
+div{
+text-align:center;
+justify-content:center;
+border:2px solid blue;
+}
+.loader{
+border:50%;
+animation:rotate 0.5 infinite;
+}
+@keyframe{
+rotate:360 deg;
+}
+</style>
+<script src=""></script>
+</head>
+<body>
+<div>
+</div>
+<div class=calc>
+</div>
+<div class=loader>
+Loading...
+</div>
+
+</body>
+</html>
