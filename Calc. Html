@@ -24,12 +24,16 @@ rotate:360 deg;
 <script src=""></script>
 </head>
 <body>
+<div class=loader>
+Loading...
+</div>
 <div>
 </div>
 <div class=calc>
-</div>
-<div class=loader>
-Loading...
+<button>1</button>
+<button>2</button>
+<button>3</button><button>4</button><button>5</button><button>6</button>
+
 </div>
 
 </body>
